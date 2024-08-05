@@ -62,9 +62,9 @@
 ### Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&locale=en" alt="Adarsh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adarshM84&show_icons=true&locale=en" alt="Adarsh's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&show_icons=true&locale=en&layout=compact" alt="Adarsh's Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshM84&show_icons=true&locale=en&layout=compact" alt="Adarsh's Most Used Languages" />
 </p>
