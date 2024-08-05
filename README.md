@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, React, Go, PHP, HTML, CSS, JavaScript, Bootstrap**
 
-- 📫 How to reach me **your-email@example.com**
+- 📫 How to reach me **adarshmishra812003@gmail.com**
 
 - ⚡ Fun fact **I love to explore and learn new things**
 
