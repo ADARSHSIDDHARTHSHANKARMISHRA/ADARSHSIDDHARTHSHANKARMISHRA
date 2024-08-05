@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsh Mishra</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="600" height="300"/>
-</p>
-
 - 🌱 I’m currently learning **new technologies and frameworks**
 
 - 💬 Ask me about **Python, React, Go, PHP, HTML, CSS, JavaScript, Bootstrap**
@@ -55,9 +51,6 @@
   <a href="https://redis.io" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
   </a>
-  <a href="https://www.clickhouse.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clickhouse/clickhouse-original-wordmark.svg" alt="clickhouse" width="40" height="40"/> 
-  </a>
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
@@ -65,7 +58,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
 </p>
----
 
 ### Github Stats
 
