@@ -59,12 +59,16 @@
   </a> 
 </p>
 
-### Github Stats
+## :chart_with_upwards_trend: Statistics:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarshM84&show_icons=true&locale=en" alt="Adarsh's GitHub Stats" />
-</p>
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=adarshM84&show_icons=true&count_private=true&hide_title=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshM84&layout=compact&theme=dracula)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshM84&show_icons=true&locale=en&layout=compact" alt="Adarsh's Most Used Languages" />
-</p>
+
+## 📫 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarshmishra03/)
+
+---
+
+*Thank you for visiting my profile!*
